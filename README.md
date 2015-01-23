@@ -1,0 +1,2 @@
+# Rosetta-Credo
+ロゼッタのクレド
